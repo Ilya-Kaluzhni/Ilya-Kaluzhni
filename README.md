@@ -1,5 +1,7 @@
 ### Hi there, my name Ilya👋
-# 👨‍💻 About Me: - I'm studying in the 3rd year at the RTU MIREA in the direction of AI in ML<br>- I'm a beginner Python developer from Moscow<br>- In my free time I practice on CodeWars tasks<br>- I'm looking for experience and new skills<br>- Developing my own Python scripts<br>
+# 👨‍💻 About Me: 
+
+- I'm studying in the 3rd year at the RTU MIREA in the direction of AI in ML<br>- I'm a beginner Python developer from Moscow<br>- In my free time I practice on CodeWars tasks<br>- I'm looking for experience and new skills<br>- Developing my own Python scripts<br>
 
 
 # 💻 Tech Stack:
