@@ -7,7 +7,7 @@
 # 📊 GitHub Stats:
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ilya-Kaluzhni&theme=vue&height=300)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ilya-Kaluzhni&theme=vue&height=200)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 <br>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ilya-Kaluzhni&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ilya-Kaluzhni&theme=solarized_dark)
