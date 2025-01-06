@@ -12,6 +12,5 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ilya-Kaluzhni&theme=solarized_dark" alt="Repos per Language">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ilya-Kaluzhni&theme=solarized_dark" alt="GitHub Stats">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ilya-Kaluzhni&theme=solarized_dark" alt="Most Commit Language">
 </p>
