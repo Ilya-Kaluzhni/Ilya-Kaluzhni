@@ -8,8 +8,10 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ilya-Kaluzhni&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 <br>
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ilya-Kaluzhni&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ilya-Kaluzhni&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ilya-Kaluzhni&theme=solarized_dark)
 
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ilya-Kaluzhni&theme=solarized_dark" alt="Repos per Language">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ilya-Kaluzhni&theme=solarized_dark" alt="GitHub Stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ilya-Kaluzhni&theme=solarized_dark" alt="Most Commit Language">
+</p>
